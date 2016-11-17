@@ -1,21 +1,17 @@
 {
-	"name": "tinymce",
-	"description": "Web based JavaScript HTML WYSIWYG editor control.",
-	"license": "LGPL-2.1",
-	"keywords": [
-		"editor",
-		"wysiwyg",
-		"tinymce",
-		"richtext",
-		"javascript",
-		"html"
-	],
-	"homepage": "http://www.tinymce.com",
-	"ignore": [
-		"readme.md",
-		"composer.json",
-		"package.json",
-		".npmignore",
-		"changelog.txt"
-	]
+  "name": "laravel.tinymce",
+  "authors": [
+    "Truong Thai Son <thaison.it09@gmail.com>"
+  ],
+  "description": "TinyMCE for Laravel",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
